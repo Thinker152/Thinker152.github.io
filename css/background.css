@@ -1,5 +1,4 @@
 #footer {
-  color: black;
 
     background: -webkit-linear-gradient(
       0deg,
@@ -58,11 +57,16 @@
     );
   }
 
-/* #footer-wrap {
+#footer-wrap {
   color:black;
   
 
-} */
+}
+
+#framework-info {
+  color:black;
+
+}
   /* 文章页背景 */
 .layout > div:first-child:not(.recent-posts) {
     /* 以下代表白色透明度为0.3 */
