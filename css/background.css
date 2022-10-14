@@ -57,6 +57,10 @@
     );
   }
 
+#footer-wrap {
+  background-color: black;
+
+}
   /* 文章页背景 */
 .layout > div:first-child:not(.recent-posts) {
     /* 以下代表白色透明度为0.3 */
